@@ -59,7 +59,7 @@ FAST_POLL_PERIOD = 30.0
 FAIL_RETRY = 60
 
 # how often, in seconds, to send a keepalive character over xmpp
-KEEPALIVE = 600.0
+KEEPALIVE = 300.0
 
 # failed job retries
 RETRIES = 1
